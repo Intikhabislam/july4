@@ -1,0 +1,16 @@
+.form{
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.form button{
+  background-color: aqua;
+}
+button{
+  border-radius: 11px 11px 11px 11px;
+}
